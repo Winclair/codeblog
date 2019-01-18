@@ -7,3 +7,34 @@
   'auto f = [&ms](int i){return ms.count(i) == 1;}', 注意保证返回值为bool,且i满足时为true。
   代码如下：
   
+'''
+#include<iostream>
+#include<set>
+#include<vector>
+#include <algorithm>
+using std::cin;
+using std::cout;
+using std::endl;
+using std::vector;
+using std::multiset;
+
+
+int main(){
+	int k; cin>>k;
+	multiset<int> ms;
+	vector<int> v;
+
+	for (int i = 0; i < k; ++i){
+		int n; cin>>n;
+		ms.insert(n);
+		v.push_back(n);
+	}
+  
+	auto f = [&ms](int i){return ms.count(i) == 1;};
+	auto it = std::find_if(v.begin(), v.end(), f);
+	if(it != v.end()) cout<<*it;
+	else cout<<"None";
+	
+}
+ 
+'''
