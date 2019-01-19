@@ -12,5 +12,7 @@
     * [1054(The Dominant Color)](1054.cpp) ：在集合中查找数目最多的元素。（**用map比用set更快**）            
     * [1063(Set Similarity)](1063.cpp): 计算集合、并集的元素数目。（**copy集合会超时！**）
     
-  
-  
+
+
++ ##### 字符串处理
+    * [1071(Speech Patterns)](1071.cpp)：统计文本单词数目
