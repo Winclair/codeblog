@@ -44,4 +44,5 @@
 
 + ##### 贪心算法
     * [1070(Mooncake)](1070.cpp)：分数背包问题（**先排序后贪心**）
-    * 
+    * [1038(Recover the Smallest Number)](1038.cpp)：组成最小的数（**同上题**）
+    * [1037 (Magic Coupon)](1037.cpp):两个序列元素积的最大和（**multiset**）
