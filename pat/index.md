@@ -24,7 +24,6 @@
     
     
 
-
 + ##### 数字处理
     * [1100(Mars Numbers)](1100.cpp)：进制转换（13——10)
     * [1048(Find Coins)](1048.cpp)：在所给序列中求两个数，其和为给定值。(**map**)
@@ -43,6 +42,10 @@
     * 
 
 + ##### 贪心算法
-    * [1070(Mooncake)](1070.cpp)：分数背包问题（**先排序后贪心**）
+    * [1070(Mooncake)](1070.cpp)：分数背包问题（**先排序后贪心**） 
     * [1038(Recover the Smallest Number)](1038.cpp)：组成最小的数（**同上题**）
     * [1037 (Magic Coupon)](1037.cpp):两个序列元素积的最大和（**multiset**）
+    
+    
++ ##### 经典问题
+    * [1040(Longest Symmetric String)](1040.cpp):求最大对称子串长度（**Manacher算法[参考链接](https://github.com/julycoding/The-Art-Of-Programming-By-July/blob/master/ebook/zh/01.05.md)**）
