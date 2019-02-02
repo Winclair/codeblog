@@ -21,6 +21,7 @@
 
 + ##### 字符串处理
     * [1071(Speech Patterns)](1071.cpp)、 [1092(To Buy or Not to Buy)](1092.cpp)：统计文本单词、字符数目（map应用）
+    * [1077(Kuchiguse)](1077.cpp): 所有子串共同后缀
     
     
 
@@ -30,6 +31,7 @@
     * [1007(Maximum Subsequence Sum)](1007.cpp)：求最大子序列和。（**经典**）
     * [1046(Shortest Distance)](1046.cpp)：求序列中任何一个区间的和。（**递推算法**）
     * [1081(Rational Sum)](1081.cpp): 有理数(分数)运算 （**最大公约数**)
+    * [1104(Sum of Number Segments)](1104.cpp): 所有连续子序列之和 （**排列组合、int*double*int!!!**)
     
     
     
@@ -49,3 +51,8 @@
     
 + ##### 经典问题
     * [1040(Longest Symmetric String)](1040.cpp):求最大对称子串长度（**Manacher算法[参考链接](https://github.com/julycoding/The-Art-Of-Programming-By-July/blob/master/ebook/zh/01.05.md)**）
+
++ ##### 其他
+    * [1042(Shuffling Machine)](1042.cpp): 根据顺序洗牌（**map**）
+    * [1069(The Black Hole of Numbers)](1069.cpp): 展示数字黑洞
+    
