@@ -32,6 +32,7 @@
     * [1046(Shortest Distance)](1046.cpp)：求序列中任何一个区间的和。（**递推算法**）
     * [1081(Rational Sum)](1081.cpp): 有理数(分数)运算 （**最大公约数**)
     * [1104(Sum of Number Segments)](1104.cpp): 所有连续子序列之和 （**排列组合、int*double*int!!!**)
+    * [1152(Google Recruitment)](1152.cpp): 第一个为素数的子序列 （**素数判断**)
     
     
     
