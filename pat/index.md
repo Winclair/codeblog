@@ -33,6 +33,7 @@
     * [1081(Rational Sum)](1081.cpp): 有理数(分数)运算 （**最大公约数**)
     * [1104(Sum of Number Segments)](1104.cpp): 所有连续子序列之和 （**排列组合、int*double*int!!!**)
     * [1152(Google Recruitment)](1152.cpp): 第一个为素数的子序列 （**素数判断**)
+    * [1024(Palindromic Number)](1024.cpp): 形成回文数 （**大数相加， 回文判断**)
     
     
     
