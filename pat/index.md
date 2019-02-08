@@ -58,6 +58,7 @@
 + ##### 树
     * [1020 （Tree Traversals）](1020.cpp): 后序中序转平序（**递归**）
     * [1119 (Pre- and Post-order Traversals)](1119.cpp): 后序前序转中序
+    * [1086 (Tree Traversals Again)](1086.cpp): 栈转前序中序再转后序
 
 
 + ##### 其他
