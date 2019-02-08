@@ -56,12 +56,11 @@
     * [1040(Longest Symmetric String)](1040.cpp):求最大对称子串长度（**Manacher算法[参考链接](https://github.com/julycoding/The-Art-Of-Programming-By-July/blob/master/ebook/zh/01.05.md)**）
 
 + ##### 树
-    * [1042(Shuffling Machine)](1042.cpp): 根据顺序洗牌（**map**）
-    * [1069(The Black Hole of Numbers)](1069.cpp): 展示数字黑洞
-
+    * [1020 （Tree Traversals）](1020.cpp): 后序中序转平序（**递归**）
+    * [1119 (Pre- and Post-order Traversals)](1119.cpp): 后序前序转中序
 
 
 + ##### 其他
-    * [1020 （Tree Traversals）](1020.cpp): 后序中序转平序（**递归**）
+    * [1042(Shuffling Machine)](1042.cpp): 根据顺序洗牌（**map**）
     * [1069(The Black Hole of Numbers)](1069.cpp): 展示数字黑洞
     
