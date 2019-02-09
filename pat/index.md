@@ -55,7 +55,7 @@
 + ##### 经典问题
     * [1040(Longest Symmetric String)](1040.cpp):求最大对称子串长度（**Manacher算法[参考链接](https://github.com/julycoding/The-Art-Of-Programming-By-July/blob/master/ebook/zh/01.05.md)**）
 
-+ ##### 树
++ ##### 树（非链式存储：child数组或parent数组）
     * [1020 （Tree Traversals）](1020.cpp): 后序中序转平序（**递归，，以下同**）
     * [1119 (Pre- and Post-order Traversals)](1119.cpp): 后序前序转中序
     * [1086 (Tree Traversals Again)](1086.cpp): 栈转前序中序再转后序
@@ -64,6 +64,8 @@
     * [1106 (Lowest Price in Supply Chain)](1106.cpp): 层数及最近叶子层数目
     * [1079 (Total Sales of Supply Chain)](1079.cpp): 同上
     * [1004 (Counting Leaves)](1004.cpp): 每层的叶子数
+    * [1053 (Path of Equal Weight)](1053.cpp): 求满足条件的路径（**parent数组向上遍历**）
+    * [1102 (Invert a Binary Tree)](1102.cpp): 二叉树的遍历（**child数组**）
 
 
 + ##### 其他
