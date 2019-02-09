@@ -62,7 +62,8 @@
     * [1094 (The Largest Generation)](1094.cpp): 求层节点数目（**层次遍历，以下同**）
     * [1090 (Highest Price in Supply Chain)](1090.cpp): 层数及最底层数目
     * [1106 (Lowest Price in Supply Chain)](1106.cpp): 层数及最近叶子层数目
-    
+    * [1079 (Total Sales of Supply Chain)](1079.cpp): 同上
+    * [1004 (Counting Leaves)](1004.cpp): 每层的叶子数
 
 
 + ##### 其他
