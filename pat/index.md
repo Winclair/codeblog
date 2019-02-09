@@ -56,11 +56,12 @@
     * [1040(Longest Symmetric String)](1040.cpp):求最大对称子串长度（**Manacher算法[参考链接](https://github.com/julycoding/The-Art-Of-Programming-By-July/blob/master/ebook/zh/01.05.md)**）
 
 + ##### 树
-    * [1020 （Tree Traversals）](1020.cpp): 后序中序转平序（**递归**）
+    * [1020 （Tree Traversals）](1020.cpp): 后序中序转平序（**递归，，以下同**）
     * [1119 (Pre- and Post-order Traversals)](1119.cpp): 后序前序转中序
     * [1086 (Tree Traversals Again)](1086.cpp): 栈转前序中序再转后序
-    * [1094 (The Largest Generation)](1094.cpp): 求层节点数目（**层次遍历**）
+    * [1094 (The Largest Generation)](1094.cpp): 求层节点数目（**层次遍历，以下同**）
     * [1090 (Highest Price in Supply Chain)](1090.cpp): 层数及最底层数目
+    * [1106 (Lowest Price in Supply Chain)](1106.cpp): 层数及最近叶子层数目
     
 
 
