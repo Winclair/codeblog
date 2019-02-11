@@ -35,6 +35,10 @@
     * [1152(Google Recruitment)](1152.cpp): 第一个为素数的子序列 （**素数判断**)
     * [1024(Palindromic Number)](1024.cpp): 形成回文数 （**大数相加， 回文判断**)
     * [1065 (A+B and C (64bit))](1065.cpp): 大整数溢出处理
+
++ ##### 整数运算
+    * [(1059 Prime Factors)](1059.cpp): 质因子分解
+    
     
     
     
