@@ -73,6 +73,10 @@
     * [1102 (Invert a Binary Tree)](1102.cpp): 二叉树的遍历（**child数组**）
     * [1064 (Complete Binary Search Tree)](1064.cpp): 完全二叉搜索树的构建及平序（**确定root结点**）
     * [1110 (Complete Binary Tree)](1110.cpp): 判断完全树（**递归求最大的下标值**）
+    
+    
++ ##### 图
+    * [1013 (Battle Over Cities)](1013.cpp) : 强连通分量的个数: dfs（**c格式输入输出更快**）
 
 
 + ##### 其他
