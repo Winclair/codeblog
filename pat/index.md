@@ -83,3 +83,7 @@
     * [1042(Shuffling Machine)](1042.cpp): 根据顺序洗牌（**map**）
     * [1069(The Black Hole of Numbers)](1069.cpp): 展示数字黑洞
     
+    
++ ##### 有意思的算法
+    * [1093 (Count PAT's)](1093.cpp): 字符串的pat个数。
+    
