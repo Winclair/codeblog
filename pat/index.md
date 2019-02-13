@@ -77,6 +77,8 @@
     
 + ##### 图
     * [1013 (Battle Over Cities)](1013.cpp) : 强连通分量的个数: dfs（**c格式输入输出更快**）
++ ##### 图算法
+    * [1103 (Integer Factorization)](1103.cpp) : 整数因子分解（**dfs**）
 
 
 + ##### 其他
