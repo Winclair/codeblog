@@ -78,6 +78,7 @@
 + ##### 图
     * [1013 (Battle Over Cities)](1013.cpp) : 强连通分量的个数: dfs（**c格式输入输出更快**）
     * [1034 Head of a Gang](1034.cpp) : 强连通分量的个数: dfs（**hash：string--int**）
+    * [1076 Forwards on Weibo](1076.cpp) : 层结点数目: bfs（**采用dfs时注意情况：1->2->4后1->4->5，当然，这个会超时**）
 + ##### 图算法
     * [1103 (Integer Factorization)](1103.cpp) : 整数因子分解（**dfs**）
 
