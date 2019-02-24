@@ -22,6 +22,7 @@
 + ##### 链表（非链式存储：v数组：存结点data、next, list数组：存addr）
     * [1074 (Reversing Linked List)](1074.cpp): 间隔k翻转（**！结点可能不在链上**）
     * [1097 (Deduplication on a Linked List)](1097.cpp): 去掉重复的
+    * [1052 (Linked List Sorting )](1052.cpp): 链表排序
 
 + ##### 字符串处理
     * [1071(Speech Patterns)](1071.cpp)、 [1092(To Buy or Not to Buy)](1092.cpp)：统计文本单词、字符数目（map应用）
