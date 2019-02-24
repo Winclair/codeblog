@@ -27,6 +27,7 @@
 
 + ##### 数字处理
     * [1100(Mars Numbers)](1100.cpp)：进制转换（13——10)
+    * [1073 (Scientific Notation)](1073.cpp)： 科学计数法转换。
     * [1048(Find Coins)](1048.cpp)：在所给序列中求两个数，其和为给定值。(**map**)
     * [1007(Maximum Subsequence Sum)](1007.cpp)：求最大子序列和。（**经典**）
     * [1046(Shortest Distance)](1046.cpp)：求序列中任何一个区间的和。（**递推算法**）
