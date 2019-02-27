@@ -17,13 +17,18 @@
     * [1084(Broken Keyboard)](1084.cpp): 计算两集合(如字符串)的差集，并且按顺序输出。（**可以使其中一个为顺序序列， 一个为set**）
     
 
-
-
 + ##### 链表（非链式存储：v数组：存结点data、next, list数组：存addr）
     * [1074 (Reversing Linked List)](1074.cpp): 间隔k翻转（**！结点可能不在链上**）
     * [1097 (Deduplication on a Linked List)](1097.cpp): 去掉重复的
     * [1052 (Linked List Sorting )](1052.cpp): 链表排序
     * [1133 (Splitting A Linked List )](1133.cpp): 按一定规则重排
+    
+
+
++ ##### 并查集(father数组存储一个集合的根, visit数组存储某个集合的索引)
+    * [1114 (Family Property)](1114.cpp): 组成大家庭
+    * [1107 (Social Clusters)](1107.cpp)：基本分类（根据特征）
+    
 
 + ##### 字符串处理
     * [1071(Speech Patterns)](1071.cpp)、 [1092(To Buy or Not to Buy)](1092.cpp)：统计文本单词、字符数目（map应用）
