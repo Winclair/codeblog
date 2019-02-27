@@ -28,6 +28,7 @@
 + ##### 并查集(father数组存储一个集合的根, visit数组存储某个集合的索引)
     * [1114 (Family Property)](1114.cpp): 组成大家庭
     * [1107 (Social Clusters)](1107.cpp)：基本分类（根据特征）
+    * [1118 (Birds in Forest)](1107.cpp)：归类，判断是否是同一类
     
 
 + ##### 字符串处理
