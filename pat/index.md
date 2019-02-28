@@ -100,6 +100,7 @@
     * [1003 (Emergency)](1003.cpp): 最短路径长度（**Dijkstra**）
     * [1111 (Online Map)](1111.cpp)、[1030 (Travel Plan)](1030.cpp): 最短路径打印
     * [1087 (All Roads Lead to Rome)](1087.cpp): 最短路径数目、结点数目、总权值、打印
+    * [1018 （Public Bike Management）](1018.cpp): 所有最短路径打印
     
 
 + ##### 其他
