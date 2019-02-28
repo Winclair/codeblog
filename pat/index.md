@@ -96,7 +96,10 @@
 
 + ##### 图算法
     * [1103 (Integer Factorization)](1103.cpp) : 整数因子分解（**dfs**）
-    * [1003 (Emergency)](1003.cpp): 最短路径（**Dijkstra**）
+    * ##### Dijkstra: e数组存边长度, dist数组表源点到i最短距离, visit数组, prev数组表最短路径中i的前节点->递归遍历得最短路径描述
+    * [1003 (Emergency)](1003.cpp): 最短路径长度（**Dijkstra**）
+    * [1111 (Online Map)](1111.cpp): 最短路径描述
+    
 
 + ##### 其他
     * [1042(Shuffling Machine)](1042.cpp): 根据顺序洗牌（**map**）
