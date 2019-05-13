@@ -4,6 +4,7 @@
 + ##### 排序、查找
     + [1062 (Talent and Virtue)](1062.cpp) 
     + [1025(PAT Ranking)](1025.md)
+    + [1055(The World's Richest)](1055.cpp): 有序序列找某个范围内的元素（**char[10]->string, scanf->cin**）
     + [1083(PAT Ranking)](1083.cpp)：在序列中找某个范围内的元素（**正向查找，反向查找。迭代器的应用与转换**）
     + [1080(Graduate Admission)](1080.cpp)：大学录取方法（**记得传引用给函数！**）
     + [1028(List Sorting)](1028.cpp)：数字，字符串排序（**strcmp()函数比string直接比较快！**）
